@@ -2,9 +2,9 @@
 
 ## Model Supplement - Elizabeth C. Lee, Andrew S. Azman, Justin Lessler
 
-This repository presents the code and data to reproduce the results for the model from the Johns Hopkins Bloomberg School of Public Health (Model-1).
+This repository presents the code and data to reproduce the results for the model from the Johns Hopkins Bloomberg School of Public Health (Model-1). Please read the following descriptions about the contents of each folder.
 
-### Supplement Text
+### Supplement_Text
 
 This folder contains documents describing the methods and results for Model-1.
 
