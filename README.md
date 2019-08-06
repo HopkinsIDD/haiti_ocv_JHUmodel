@@ -4,10 +4,6 @@
 
 This repository presents the code and data to reproduce the results for the model from the Johns Hopkins Bloomberg School of Public Health (Model-1). Please read the following descriptions about the contents of each folder.
 
-### Supplement_Text
-
-This folder contains documents describing the methods and results for Model-1.
-
 ### Source
 
 This folder contains all of the R codes to fit the model, run diagnostics, and project the impact of mass OCV campaigns in Haiti. Model fits and projections were made using the R POMP package ($<$version 2).
