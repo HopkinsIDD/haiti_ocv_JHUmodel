@@ -1,0 +1,7 @@
+team,scenario,t_elim_thresh1_med,t_elim_thresh1_low,t_elim_thresh1_hi,t_elim_thresh2_med,t_elim_thresh2_low,t_elim_thresh2_hi
+JHU,1,31,0,61.84999999999991,46,0,97.875
+JHU,2,111,0,197,134,0,222
+JHU,3,71,0,138.7249999999999,91,0,162
+JHU,4,91.5,0,119.625,109,0,156
+JHU,25,30,0,84,44,0,109
+JHU,0,0,0,204.44999999999987,0,0,232.39999999999986
